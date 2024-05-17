@@ -2,9 +2,9 @@
 
 Olá, tudo bem?
 
-Fico agradecido e feliz por você está por aqui vendo um dos meus projetos.
+Obrigado por estar aqui.
 
-Segue abaixo mais detalhes do mesmo.
+Segue abaixo o link do projeto: https://bc-hoteis.vercel.app/
 
 ## Sobre o projeto
 
