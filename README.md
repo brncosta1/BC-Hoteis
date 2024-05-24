@@ -14,14 +14,8 @@ As tecnologias que estão sendo usadas neste projeto são:
 
 1. Bootstrap (V5).
 2. CSS.
-3. JavaScript.
+3. HTML.
 
-
-## Observações importantes
-
-Caso queira clonar o repositório ou utilizar em algum projeto pessoal, por favor, dá os devidos créditos. 
-
-Ficarei muito grato! :D
 
 ## Contato
 
